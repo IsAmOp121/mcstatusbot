@@ -1,9 +1,7 @@
-module.exports = {
-	token: process.env.token || "YOUR_BOT_TOKEN_HERE",
-    commandPrefix: process.env.commandPrefix || "/",
-    ip: process.env.ip || "YOUR_SERVER_IP_HERE",
-    port: parseInt(process.env.port || 25565),
-    pingInterval: process.env.pingInterval || "30",
-    embedColor: process.env.embedColor || "7289DA",
-    webPort: process.env.PORT || 3000
+{
+    "token":"OTE4MzE0MjQ1NzQ0MTIzOTg1.YbFcyQ.3ihjLhW4HYH-D1_1umxxiIJOB3M",
+    "commandPrefix":"/",
+    "ip":"play.zyrex.uk.to",
+    "port":2009",
+  "  "pingInterval":"30  "  ""embedCo3244557289DA"
 }
